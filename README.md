@@ -1,4 +1,4 @@
 # codexhub
 First Repository
 <br>
-Owner-Vishal Pavara
+Owner-Pavara Vishal 
